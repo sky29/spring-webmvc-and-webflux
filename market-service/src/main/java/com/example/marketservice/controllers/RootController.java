@@ -10,7 +10,7 @@ public class RootController {
 
     @GetMapping
     public String showMessage() {
-        return "Welcome to Integration Service";
+        return "Welcome to Market Service";
     }
 
 }
