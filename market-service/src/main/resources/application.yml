@@ -1,0 +1,4 @@
+server:
+  servlet:
+     context-path: /market
+  port: 9002
